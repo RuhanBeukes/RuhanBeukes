@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuhanBeukes  
-- 👀 I’m interested in full-stack development, back-end development, database administrationgame, and mobile app development.  
+- 👀 I’m interested in full-stack development, back-end development, database administration, and mobile app development.  
 - 🌱 I’m currently learning JavaScript, Node.js, React, C++, Kotlin, SQL and Java.  
 - 💞️ I’m looking to collaborate on innovative web applications, open-source projects, and mobile apps.  
 - 📫 How to reach me: ruhanbeukes@gmail.com | www.linkedin.com/in/ruhan-beukes
